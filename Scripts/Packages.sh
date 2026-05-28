@@ -62,7 +62,8 @@ UPDATE_PACKAGE "passwall" "Openwrt-Passwall/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "Openwrt-Passwall/openwrt-passwall2" "main" "pkg"
 
 UPDATE_PACKAGE "unishare" "kenzok8/jell" "main" "pkg"
-
+UPDATE_PACKAGE "webdav2" "kenzok8/jell" "main" "pkg"
+UPDATE_PACKAGE "luci-app-unishare" "kenzok8/jell" "main" "pkg"
 
 UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
