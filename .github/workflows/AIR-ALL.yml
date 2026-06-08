@@ -36,7 +36,7 @@ jobs:
       #max-parallel: 3
       matrix:
         CONFIG: [AIROHA-WIFI-NO]
-        SOURCE: [bingoguo93/immortalwrt]
+        SOURCE: [vikingyfy/immortalwrt]
         BRANCH: [owrt]
 
     #调用公用编译核心WRT-CORE.yml
