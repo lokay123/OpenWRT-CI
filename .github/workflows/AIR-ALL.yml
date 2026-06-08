@@ -37,7 +37,7 @@ jobs:
       matrix:
         CONFIG: [AIROHA-WIFI-NO]
         SOURCE: [VIKINGYFY/immortalwrt]
-        BRANCH: [6.18]
+        BRANCH: [owrt]
 
     #调用公用编译核心WRT-CORE.yml
     uses: ./.github/workflows/WRT-CORE.yml
